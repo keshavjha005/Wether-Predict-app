@@ -1,1 +1,1 @@
-# Wether-Predict-app
+# Weather-App
